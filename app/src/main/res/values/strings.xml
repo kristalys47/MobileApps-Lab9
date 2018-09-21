@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string-array name="questions">
+        <item>What is the capital of Australia?</item>
+        <item>What is the capital of Pakistan?</item>
+        <item>Paris is a city in which country?</item>
+        <item>What is the capital of Kenya?</item>
+        <item>Rio de Janeiro is a city in which country?</item>
+    </string-array>
+
+    <string-array name="correct_answers">
+        <item>Canberra</item>
+        <item>Islamabad</item>
+        <item>France</item>
+        <item>Nairobi</item>
+        <item>Brazil</item>
+    </string-array>
+
+    <string-array name="incorrect_answers">
+        <item>Sydney</item>
+        <item>Karachi</item>
+        <item>Switzerland</item>
+        <item>Mombasa</item>
+        <item>Argentina</item>
+    </string-array>
+    <string name="initial_correct_incorrect">Please choose an answer...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
